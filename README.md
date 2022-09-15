@@ -6,7 +6,7 @@
 
 Projeto  construido do evento Next Level Week ( &lt;nlw/> eSports  ) da Rocketseat .
 
-[Clique aqui para acessar](https://andredarc.github.io/nlwEsports/)
+[🔗Clique aqui para acessar](https://andredarc.github.io/nlwEsports/)
 
 ## Tecnologias
 
