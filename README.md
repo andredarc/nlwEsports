@@ -17,4 +17,4 @@ Projeto  construido do evento Next Level Week ( &lt;nlw/> eSports  ) da Rocketse
 
 ## Contato
 
-andre.jr@hotmal.com.br
+andre.jr@hotmail.com.br
